@@ -22,3 +22,10 @@ Data:
 - Historical mortality rates. [CDC](Add link!)
 - List of restrictions vs recommendations by state. [?](?)
 - Detect difference between historical vs 2020 moratlity rates. [?](?)
+
+---
+
+When the repo is pulled, run the following to update submodules:
+
+- git submodule init
+- git submodule update
