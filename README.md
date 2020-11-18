@@ -47,11 +47,11 @@ In short, we find that the answer to these questions are yes, yes, and yes. For 
 
 ### Repository Structure
 
-- /data/ contains raw and processed datasets used in our analysis.
-- /details/ contains our project proposal and presentation pdfs.
-- /notebooks/ contains jupyter notebooks detailing most of our exploratory data analysis.
-- /src/ contains python map generation code that was better suited as standalone code than jupyter notebooks.
-- /visualizations/ contains some basic visualizations generated from our data. More advanced visualizations are found in our formal presentation. 
+- [/data/](https://github.com/Anti-Rona-Task-Force/COVID/tree/main/data) contains raw and processed datasets used in our analysis.
+- [/details/](https://github.com/Anti-Rona-Task-Force/COVID/tree/main/details) contains our project proposal and presentation pdfs.
+- [/notebooks/](https://github.com/Anti-Rona-Task-Force/COVID/tree/main/notebooks) contains jupyter notebooks detailing most of our exploratory data analysis.
+- [/src/](https://github.com/Anti-Rona-Task-Force/COVID/tree/main/src) contains python map generation code that was better suited as standalone code than jupyter notebooks.
+- [/visualizations/](https://github.com/Anti-Rona-Task-Force/COVID/tree/main/visualizations) contains some basic visualizations generated from our data. More advanced visualizations are found in our formal presentation. 
 
 ---
 
