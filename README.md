@@ -11,9 +11,9 @@
 ---
 
 ### Data
-- U.S. County Census Data. [link](https://covid19.census.gov/datasets/21843f238cbb46b08615fc53e19e0daf/data?geometry=136.810%2C28.795%2C-136.179%2C67.148)
-- New York Times Live, Historical, and Mask Use Data. [link](https://github.com/nytimes/covid-19-data)
-- Kaggle Lockdown Data. [link](https://www.kaggle.com/lin0li/us-lockdown-dates-dataset)
+- U.S. County Census Data. [link](https://covid19.census.gov/datasets/21843f238cbb46b08615fc53e19e0daf/data?geometry=136.810%2C28.795%2C-136.179%2C67.148).
+- New York Times Live, Historical, and Mask Use Data. [link](https://github.com/nytimes/covid-19-data).
+- Kaggle Lockdown Data. [link](https://www.kaggle.com/lin0li/us-lockdown-dates-dataset).
 
 ---
 
@@ -47,14 +47,15 @@ In short, we find that the answer to these questions are yes, yes, and yes. For 
 
 ### Repository Structure
 
-- /data/ contains raw and processed datasets used in our analysis
-- /details/ contains our project proposal and presentation pdfs
-- /notebooks/ contains jupyter notebooks detailing most of our exploratory data analysis
-- /src/ contains python map generation code that was better suited as standalone code than jupyter notebooks
+- /data/ contains raw and processed datasets used in our analysis.
+- /details/ contains our project proposal and presentation pdfs.
+- /notebooks/ contains jupyter notebooks detailing most of our exploratory data analysis.
+- /src/ contains python map generation code that was better suited as standalone code than jupyter notebooks.
 - /visualizations/ contains some basic visualizations generated from our data. More advanced visualizations are found in our formal presentation. 
 
 ---
 
 ### Presentation 
-To view our animated formal presentation including analysis, process, and results, click [here](https://docs.google.com/presentation/d/1kg-K-5UqdrL2nfIIDklv58beWXhHF-lpX1oGpWL_rGI/edit?usp=sharing)
+To view our animated formal presentation including analysis, process, and results, click [here](https://docs.google.com/presentation/d/1kg-K-5UqdrL2nfIIDklv58beWXhHF-lpX1oGpWL_rGI/edit?usp=sharing).
+
 An unanimated pdf version of our presentation is also available within the /details/ folder.
