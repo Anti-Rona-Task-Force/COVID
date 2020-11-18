@@ -11,9 +11,9 @@
 ---
 
 ### Data
-- U.S. County Census Data. [link](https://covid19.census.gov/datasets/21843f238cbb46b08615fc53e19e0daf/data?geometry=136.810%2C28.795%2C-136.179%2C67.148).
-- New York Times Live, Historical, and Mask Use Data. [link](https://github.com/nytimes/covid-19-data).
-- Kaggle Lockdown Data. [link](https://www.kaggle.com/lin0li/us-lockdown-dates-dataset).
+- [U.S. County Census Data](https://covid19.census.gov/datasets/21843f238cbb46b08615fc53e19e0daf/data?geometry=136.810%2C28.795%2C-136.179%2C67.148).
+- [New York Times Live, Historical, and Mask Use Data](https://github.com/nytimes/covid-19-data).
+- [Kaggle Lockdown Data](https://www.kaggle.com/lin0li/us-lockdown-dates-dataset).
 
 ---
 
